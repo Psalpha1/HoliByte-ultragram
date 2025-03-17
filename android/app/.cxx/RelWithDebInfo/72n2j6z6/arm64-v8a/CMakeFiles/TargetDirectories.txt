@@ -1,0 +1,2 @@
+C:/Users/peaxe/Desktop/Project/we_chat/android/app/.cxx/RelWithDebInfo/72n2j6z6/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/peaxe/Desktop/Project/we_chat/android/app/.cxx/RelWithDebInfo/72n2j6z6/arm64-v8a/CMakeFiles/rebuild_cache.dir
