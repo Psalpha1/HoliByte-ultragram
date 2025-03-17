@@ -10,22 +10,13 @@
 
 ## Screenshots
 
-### Chat Interface
-![Chat Interface](./screenshots/scaled_Screenshot_20250317-030109.jpg)
-
-### Group Chat
-![Group Chat](./screenshots/scaled_Screenshot_20250317-030116.jpg)
-
-### Profile Screen
-![Profile Screen](./screenshots/scaled_Screenshot_20250317-030148.jpg)
-
-### Chat Screen
-![Chat Screen](./screenshots/scaled_Screenshot_20250317-030131.jpg)
-
-### Video Call
-![Video Call](./screenshots/Screenshot_1741238944.png)
-
-### 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="./screenshots/scaled_Screenshot_20250317-030109.jpg" alt="Chat Interface" width="200"/>
+  <img src="./screenshots/scaled_Screenshot_20250317-030116.jpg" alt="Group Chat" width="200"/>
+  <img src="./screenshots/scaled_Screenshot_20250317-030148.jpg" alt="Profile Screen" width="200"/>
+  <img src="./screenshots/scaled_Screenshot_20250317-030131.jpg" alt="Chat Screen" width="200"/>
+  <img src="./screenshots/Screenshot_1741238944.png" alt="Video Call" width="200"/>
+</div>
 
 ## Getting Started
 
@@ -82,4 +73,4 @@ If you need guidance on setting up or using this application, please contact me 
   - Enhanced sorting logic to display messages in the correct order.  
   - Improved efficiency in retrieving and displaying group conversations.  
 
-Copyright (c) 2025 HoliByte
+
