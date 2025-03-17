@@ -82,4 +82,4 @@ If you need guidance on setting up or using this application, please contact me 
   - Enhanced sorting logic to display messages in the correct order.  
   - Improved efficiency in retrieving and displaying group conversations.  
 
-
+Copyright (c) 2025 HoliByte
